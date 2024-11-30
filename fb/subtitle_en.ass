@@ -1,0 +1,483 @@
+[Script Info]
+Title: [Erai-raws] 01.en
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.01,0:00:14.01,Default,,0,0,0,,ORIGINAL WORK BY RYOKO KUI
+Dialogue: 0,0:00:14.68,0:00:16.97,Default,,0,0,0,,{\i1}It all started in a small village.{\i0}
+Dialogue: 0,0:00:18.26,0:00:22.73,Default,,0,0,0,,{\i1}One day, a rumble in the ground\Ncaused a rift under the cemetery,{\i0}
+Dialogue: 0,0:00:22.81,0:00:25.56,Default,,0,0,0,,{\i1}from which a single man appeared.{\i0}
+Dialogue: 0,0:00:26.19,0:00:30.32,Default,,0,0,0,,{\i1}He claimed to be the king\Nof a once prosperous kingdom.{\i0}
+Dialogue: 0,0:00:31.53,0:00:33.86,Default,,0,0,0,,{\i1}He states that the once glorious land{\i0}
+Dialogue: 0,0:00:33.95,0:00:36.82,Default,,0,0,0,,{\i1}continues to be held captive\Ndeep underground{\i0}
+Dialogue: 0,0:00:36.91,0:00:39.58,Default,,0,0,0,,{\i1}by the hands of a mad magician.{\i0}
+Dialogue: 0,0:00:40.58,0:00:42.50,Default,,0,0,0,,{\i1}To whomever defeats this magician,{\i0}
+Dialogue: 0,0:00:42.58,0:00:44.75,Default,,0,0,0,,{\i1}he offers everything his kingdom has.{\i0}
+Dialogue: 0,0:00:45.83,0:00:49.67,Default,,0,0,0,,{\i1}After he imparts these words,\Nhe turns to dust and vanishes.{\i0}
+Dialogue: 0,0:00:55.09,0:00:58.97,Default,,0,0,0,,DELICIOUS IN DUNGEON
+Dialogue: 0,0:01:09.69,0:01:11.19,Default,,0,0,0,,Keep it up, everyone.
+Dialogue: 0,0:01:11.27,0:01:13.11,Default,,0,0,0,,We've only got a bit left\Nafter this dragon.
+Dialogue: 0,0:01:13.94,0:01:15.11,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:01:15.82,0:01:16.86,Default,,0,0,0,,{\i1}We're completely prepared.{\i0}
+Dialogue: 0,0:01:17.53,0:01:19.12,Default,,0,0,0,,{\i1}Nothing can get in our way.{\i0}
+Dialogue: 0,0:01:24.45,0:01:25.71,Default,,0,0,0,,{\i1}That's not true.{\i0}
+Dialogue: 0,0:01:27.37,0:01:28.46,Default,,0,0,0,,{\i1}We're hungry.{\i0}
+Dialogue: 0,0:01:30.79,0:01:33.21,Default,,0,0,0,,{\i1}Everyone's movements lack\Ntheir usual edge.{\i0}
+Dialogue: 0,0:01:34.46,0:01:38.05,Default,,0,0,0,,{\i1}We lost a day roaming around\Ndue to a misprint on our map.{\i0}
+Dialogue: 0,0:01:38.13,0:01:41.35,Default,,0,0,0,,{\i1}We walked into a trap\Nand lost three days' worth of food.{\i0}
+Dialogue: 0,0:01:46.56,0:01:50.73,Default,,0,0,0,,{\i1}It's bothersome, but we should turn back\Nfor a bit after defeating the dragon.{\i0}
+Dialogue: 0,0:01:50.81,0:01:51.94,Default,,0,0,0,,Laios!
+Dialogue: 0,0:01:52.52,0:01:53.69,Default,,0,0,0,,{\i1}What happened, Falin?{\i0}
+Dialogue: 0,0:01:53.78,0:01:55.94,Default,,0,0,0,,{\i1}Did they cast a confusion spell on you?{\i0}
+Dialogue: 0,0:01:58.28,0:01:59.45,Default,,0,0,0,,{\i1}Wh…{\i0}
+Dialogue: 0,0:02:01.91,0:02:02.99,Default,,0,0,0,,{\i1}What?{\i0}
+Dialogue: 0,0:02:04.45,0:02:05.45,Default,,0,0,0,,{\i1}You're kidding me.{\i0}
+Dialogue: 0,0:02:06.29,0:02:09.21,Default,,0,0,0,,{\i1}We're all dead?\NWe're so deep in the dungeon.{\i0}
+Dialogue: 0,0:02:10.13,0:02:13.21,Default,,0,0,0,,R-Run.
+Dialogue: 0,0:02:25.06,0:02:26.10,Default,,0,0,0,,Laios.
+Dialogue: 0,0:02:30.44,0:02:31.56,Default,,0,0,0,,You're awake.
+Dialogue: 0,0:02:32.40,0:02:36.15,Default,,0,0,0,,It looks like a magic spell\Ngot us out of the dungeon,
+Dialogue: 0,0:02:36.94,0:02:39.11,Default,,0,0,0,,but Falin's the only one we can't find.
+Dialogue: 0,0:02:42.53,0:02:43.95,Default,,0,0,0,,She was eaten.
+Dialogue: 0,0:02:44.03,0:02:44.95,Default,,0,0,0,,What?
+Dialogue: 0,0:02:45.70,0:02:48.16,Default,,0,0,0,,Her magic didn't work\Nfrom inside the dragon's stomach.
+Dialogue: 0,0:02:49.16,0:02:50.62,Default,,0,0,0,,That can't be.
+Dialogue: 0,0:02:50.71,0:02:52.33,Default,,0,0,0,,She's probably still in the dungeon.
+Dialogue: 0,0:02:52.92,0:02:53.92,Default,,0,0,0,,Let's go now to save her.
+Dialogue: 0,0:02:54.42,0:02:55.92,Default,,0,0,0,,Hold on.
+Dialogue: 0,0:02:56.80,0:03:01.80,Default,,0,0,0,,Honestly, it looks like almost everything\Nwe had was left behind in the dungeon.
+Dialogue: 0,0:03:02.59,0:03:03.89,Default,,0,0,0,,So we're basically cleaned out.
+Dialogue: 0,0:03:04.39,0:03:05.22,Default,,0,0,0,,What?
+Dialogue: 0,0:03:05.31,0:03:07.10,Default,,0,0,0,,And what's worse…
+Dialogue: 0,0:03:07.18,0:03:08.22,Default,,0,0,0,,Chilchuck?
+Dialogue: 0,0:03:08.81,0:03:11.23,Default,,0,0,0,,We just lost two of our party members.
+Dialogue: 0,0:03:11.31,0:03:12.31,Default,,0,0,0,,RESIGNATION LETTER
+Dialogue: 0,0:03:12.40,0:03:13.23,Default,,0,0,0,,What's that?
+Dialogue: 0,0:03:13.81,0:03:17.32,Default,,0,0,0,,Apparently another party's\Nbeen courting them for a while now.
+Dialogue: 0,0:03:17.40,0:03:18.74,Default,,0,0,0,,What?
+Dialogue: 0,0:03:19.49,0:03:21.74,Default,,0,0,0,,{\i1}Exploring dungeons costs money{\i0}
+Dialogue: 0,0:03:21.82,0:03:25.74,Default,,0,0,0,,{\i1}for hiring companions,\Nbuying equipment, and getting food too.{\i0}
+Dialogue: 0,0:03:26.33,0:03:30.20,Default,,0,0,0,,{\i1}We can sell our current equipment\Nand secure what funds we have now{\i0}
+Dialogue: 0,0:03:30.29,0:03:32.58,Default,,0,0,0,,{\i1}to switch to cheaper equipment.{\i0}
+Dialogue: 0,0:03:32.67,0:03:37.25,Default,,0,0,0,,{\i1}As well as to pay for food, medicine,\Nnecessities, and new companions.{\i0}
+Dialogue: 0,0:03:37.34,0:03:39.76,Default,,0,0,0,,-Do we have enough?\N-Not in the slightest.
+Dialogue: 0,0:03:40.42,0:03:43.89,Default,,0,0,0,,My little sister will get digested\Nwhile we get everything ready.
+Dialogue: 0,0:03:44.47,0:03:47.22,Default,,0,0,0,,There's that person who once revived\Nsomeone from shreds, right?
+Dialogue: 0,0:03:47.31,0:03:49.64,Default,,0,0,0,,Have they ever revived someone from poop?
+Dialogue: 0,0:03:50.27,0:03:52.48,Default,,0,0,0,,Never heard of that.
+Dialogue: 0,0:03:55.73,0:03:57.82,Default,,0,0,0,,I know we're short on cash,
+Dialogue: 0,0:03:57.90,0:03:59.61,Default,,0,0,0,,but how about some food first?
+Dialogue: 0,0:03:59.69,0:04:03.11,Default,,0,0,0,,After all, our empty stomachs\Nmay have been why we failed.
+Dialogue: 0,0:04:03.99,0:04:05.99,Default,,0,0,0,,What should we eat?
+Dialogue: 0,0:04:06.07,0:04:09.49,Default,,0,0,0,,For cheap food, we could go to\Nthe bistro on the main street,
+Dialogue: 0,0:04:09.58,0:04:11.91,Default,,0,0,0,,or there's The Laughing Wolf\Nfor bigger meals.
+Dialogue: 0,0:04:12.00,0:04:14.92,Default,,0,0,0,,Oh, but that pub's hard to pass up too!
+Dialogue: 0,0:04:15.00,0:04:18.04,Default,,0,0,0,,Their soup dumplings are to die for.
+Dialogue: 0,0:04:18.13,0:04:19.67,Default,,0,0,0,,-No.\N-What?
+Dialogue: 0,0:04:20.26,0:04:22.34,Default,,0,0,0,,We need to get back to the dungeon.
+Dialogue: 0,0:04:22.42,0:04:23.76,Default,,0,0,0,,But as we are now…
+Dialogue: 0,0:04:24.34,0:04:25.55,Default,,0,0,0,,I have an idea.
+Dialogue: 0,0:04:26.39,0:04:28.81,Default,,0,0,0,,-You two will leave the party.\N-What?
+Dialogue: 0,0:04:28.89,0:04:32.93,Default,,0,0,0,,Then, we'll sell your equipment\Nand I'll enter the dungeon alone.
+Dialogue: 0,0:04:33.02,0:04:34.35,Default,,0,0,0,,That's insane.
+Dialogue: 0,0:04:34.44,0:04:35.44,Default,,0,0,0,,Do you have a death wish?
+Dialogue: 0,0:04:35.52,0:04:39.23,Default,,0,0,0,,This way, we won't have to compromise\Non using quality equipment,
+Dialogue: 0,0:04:39.32,0:04:42.69,Default,,0,0,0,,and I can get to the lowest floor\Nwhile avoiding monsters if I'm alone.
+Dialogue: 0,0:04:43.28,0:04:44.70,Default,,0,0,0,,It's not impossible.
+Dialogue: 0,0:04:44.78,0:04:46.95,Default,,0,0,0,,It's all my fault in the first place.
+Dialogue: 0,0:04:47.03,0:04:49.74,Default,,0,0,0,,I can't put you two in danger too.
+Dialogue: 0,0:04:52.75,0:04:54.54,Default,,0,0,0,,I'm going too, no matter what.
+Dialogue: 0,0:04:54.62,0:04:56.83,Default,,0,0,0,,I'll do anything to save Falin.
+Dialogue: 0,0:04:56.92,0:04:59.04,Default,,0,0,0,,Falin is dear to me too.
+Dialogue: 0,0:05:00.38,0:05:02.63,Default,,0,0,0,,I won't drag you down.
+Dialogue: 0,0:05:02.71,0:05:05.55,Default,,0,0,0,,You know how strong my magic is.
+Dialogue: 0,0:05:05.63,0:05:08.55,Default,,0,0,0,,Don't forget about my job, too.
+Dialogue: 0,0:05:08.64,0:05:12.18,Default,,0,0,0,,You'll need me to open doors\Nand disable traps.
+Dialogue: 0,0:05:12.27,0:05:13.93,Default,,0,0,0,,You guys…
+Dialogue: 0,0:05:16.77,0:05:20.19,Default,,0,0,0,,You really mean to go with me, right?
+Dialogue: 0,0:05:20.27,0:05:22.19,Default,,0,0,0,,For better or for worse?
+Dialogue: 0,0:05:23.53,0:05:24.78,Default,,0,0,0,,Y-Yeah.
+Dialogue: 0,0:05:26.40,0:05:28.95,Default,,0,0,0,,We'll secure food from within the dungeon.
+Dialogue: 0,0:05:29.03,0:05:29.95,Default,,0,0,0,,-What?!\N-What?!
+Dialogue: 0,0:05:30.03,0:05:32.74,Default,,0,0,0,,There are more than enough\Nmonsters in the dungeon.
+Dialogue: 0,0:05:32.83,0:05:35.96,Default,,0,0,0,,That means an entire ecosystem\Nexists inside.
+Dialogue: 0,0:05:36.58,0:05:40.00,Default,,0,0,0,,Carnivorous monsters will have\Nherbivorous monsters to feed on,
+Dialogue: 0,0:05:40.08,0:05:42.21,Default,,0,0,0,,and the herbivorous monsters eat plants
+Dialogue: 0,0:05:42.30,0:05:44.96,Default,,0,0,0,,that find nutrients\Nfrom water, sunlight, and dirt.
+Dialogue: 0,0:05:45.05,0:05:49.22,Default,,0,0,0,,In other words,\Nhumans can eat in the dungeon too.
+Dialogue: 0,0:05:52.68,0:05:53.85,Default,,0,0,0,,So, what you're saying
+Dialogue: 0,0:05:54.43,0:05:55.85,Default,,0,0,0,,is that we'll eat monsters?
+Dialogue: 0,0:05:56.43,0:05:57.81,Default,,0,0,0,,We'll eat monsters too.
+Dialogue: 0,0:05:57.89,0:06:00.10,Default,,0,0,0,,Think about our adventures until now.
+Dialogue: 0,0:06:00.19,0:06:03.61,Default,,0,0,0,,I'm sure there were\Na lot of tasty-looking things.
+Dialogue: 0,0:06:04.57,0:06:06.99,Default,,0,0,0,,No, there's no way I'm eating those.
+Dialogue: 0,0:06:07.07,0:06:10.36,Default,,0,0,0,,There are quite a bit of people\Nwho hunt monsters for food.
+Dialogue: 0,0:06:10.45,0:06:13.66,Default,,0,0,0,,You mean the criminals\Nwho can't come back on land?
+Dialogue: 0,0:06:13.74,0:06:17.12,Default,,0,0,0,,Even they get hospitalized\Nall the time from food poisoning.
+Dialogue: 0,0:06:17.83,0:06:20.37,Default,,0,0,0,,You said you'd do anything to save Falin.
+Dialogue: 0,0:06:20.46,0:06:22.13,Default,,0,0,0,,I never said I'd eat monsters.
+Dialogue: 0,0:06:22.21,0:06:25.21,Default,,0,0,0,,There's no time nor money.\NWhat other choice do we have?
+Dialogue: 0,0:06:25.30,0:06:27.34,Default,,0,0,0,,But there's no point\Nif we eat something weird
+Dialogue: 0,0:06:27.42,0:06:29.72,Default,,0,0,0,,and get stopped by food poisoning.
+Dialogue: 0,0:06:30.84,0:06:32.76,Default,,0,0,0,,Run away!
+Dialogue: 0,0:06:34.06,0:06:36.14,Default,,0,0,0,,Save us!
+Dialogue: 0,0:06:38.77,0:06:40.69,Default,,0,0,0,,Looks like dungeon newbies.
+Dialogue: 0,0:06:41.60,0:06:45.19,Default,,0,0,0,,They're not cut out for this\Nif they can't handle a monster like this.
+Dialogue: 0,0:06:45.86,0:06:48.19,Default,,0,0,0,,Hey, Laios?
+Dialogue: 0,0:06:48.78,0:06:50.95,Default,,0,0,0,,Let's make lunch out of this.
+Dialogue: 0,0:06:51.03,0:06:52.82,Default,,0,0,0,,I refuse!
+Dialogue: 0,0:06:52.91,0:06:55.58,Default,,0,0,0,,No, absolutely not!
+Dialogue: 0,0:06:56.20,0:06:58.70,Default,,0,0,0,,Isn't going straight to mushrooms\Na bit risky?
+Dialogue: 0,0:06:58.79,0:07:03.58,Default,,0,0,0,,The dungeon food guide\Nsays it's food suited for beginners.
+Dialogue: 0,0:07:03.67,0:07:06.42,Default,,0,0,0,,It's meaty and has a mild taste.
+Dialogue: 0,0:07:06.50,0:07:09.05,Default,,0,0,0,,-What is this book?\N-It looks pretty worn down.
+Dialogue: 0,0:07:10.05,0:07:12.34,Default,,0,0,0,,Let's go find more space\Nto start a fire.
+Dialogue: 0,0:07:12.84,0:07:14.89,Default,,0,0,0,,Wish we had one or two\Nmore ingredients, though.
+Dialogue: 0,0:07:17.18,0:07:20.18,Default,,0,0,0,,Those steps are from a Huge Scorpion!
+Dialogue: 0,0:07:20.73,0:07:22.60,Default,,0,0,0,,Could it be that he…
+Dialogue: 0,0:07:22.69,0:07:25.69,Default,,0,0,0,,{\i1}Despite being a dungeon,\Nmany people come and go,{\i0}
+Dialogue: 0,0:07:25.77,0:07:28.19,Default,,0,0,0,,{\i1}making it a bustling place\Nfor adventurers and merchants.{\i0}
+Dialogue: 0,0:07:28.69,0:07:30.28,Default,,0,0,0,,{\i1}A former cemetery,{\i0}
+Dialogue: 0,0:07:30.36,0:07:33.36,Default,,0,0,0,,{\i1}it was once a sacred place\Nwhere villagers slept in peace.{\i0}
+Dialogue: 0,0:07:33.45,0:07:36.74,Default,,0,0,0,,{\i1}But once it was connected to\Nthe dungeon six years ago,{\i0}
+Dialogue: 0,0:07:36.83,0:07:39.83,Default,,0,0,0,,{\i1}it became the liveliest place\Nin the village.{\i0}
+Dialogue: 0,0:07:40.46,0:07:44.00,Default,,0,0,0,,{\i1}They say monsters emerge\Nfrom the depths of the dungeon.{\i0}
+Dialogue: 0,0:07:44.08,0:07:48.13,Default,,0,0,0,,{\i1}It is unclear whether a forbidden spell\Ntransformed terrestrial creatures{\i0}
+Dialogue: 0,0:07:48.21,0:07:51.51,Default,,0,0,0,,{\i1}or if they were summoned\Nfrom the world of monsters.{\i0}
+Dialogue: 0,0:07:51.59,0:07:54.43,Default,,0,0,0,,{\i1}But they all have an odd appearance{\i0}
+Dialogue: 0,0:07:54.51,0:07:57.35,Default,,0,0,0,,{\i1}and attack humans as if\Nthey have something to protect.{\i0}
+Dialogue: 0,0:07:58.10,0:08:01.14,Default,,0,0,0,,{\i1}But that served as the only proof we have{\i0}
+Dialogue: 0,0:08:01.23,0:08:04.52,Default,,0,0,0,,{\i1}that the cursed,\Nformerly prosperous capital truly exists.{\i0}
+Dialogue: 0,0:08:06.40,0:08:08.07,Default,,0,0,0,,Don't kill it like a crayfish.
+Dialogue: 0,0:08:08.15,0:08:11.61,Default,,0,0,0,,This is how you catch it,\Nso it's easier than a crayfish.
+Dialogue: 0,0:08:11.69,0:08:12.78,Default,,0,0,0,,Hey.
+Dialogue: 0,0:08:13.36,0:08:18.08,Default,,0,0,0,,You've been looking for a chance\Nto eat monsters for a while, haven't you?
+Dialogue: 0,0:08:20.24,0:08:23.21,Default,,0,0,0,,But that doesn't change the fact\Nthat I want to save my sister.
+Dialogue: 0,0:08:23.83,0:08:24.67,Default,,0,0,0,,Yeah, okay.
+Dialogue: 0,0:08:24.75,0:08:28.29,Default,,0,0,0,,I've never told you this,\Nbut I love monsters.
+Dialogue: 0,0:08:28.38,0:08:31.67,Default,,0,0,0,,from their appearance and cries\Nto their ecology.
+Dialogue: 0,0:08:31.76,0:08:34.09,Default,,0,0,0,,I soon wanted to know their taste.
+Dialogue: 0,0:08:34.18,0:08:35.26,Default,,0,0,0,,He's a psychopath.
+Dialogue: 0,0:08:40.77,0:08:44.27,Default,,0,0,0,,Shouldn't we do this\Nwhere there are fewer people?
+Dialogue: 0,0:08:44.35,0:08:47.56,Default,,0,0,0,,It's hard to go back and forth for water.
+Dialogue: 0,0:08:48.65,0:08:50.98,Default,,0,0,0,,So, how do we eat these?
+Dialogue: 0,0:08:51.07,0:08:53.07,Default,,0,0,0,,Let's try an orthodox approach.
+Dialogue: 0,0:08:55.07,0:08:56.32,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:08:56.41,0:08:59.83,Default,,0,0,0,,It's easy to cut from above,\Nbut there's resistance from the side.
+Dialogue: 0,0:08:59.91,0:09:02.04,Default,,0,0,0,,When we fight against\Nmushroom-type monsters,
+Dialogue: 0,0:09:02.12,0:09:04.91,Default,,0,0,0,,slashing diagonally or horizontally\Nmight be less effective.
+Dialogue: 0,0:09:05.50,0:09:06.83,Default,,0,0,0,,That's good to know.
+Dialogue: 0,0:09:06.92,0:09:09.79,Default,,0,0,0,,It looks like food if you slice it up.
+Dialogue: 0,0:09:09.88,0:09:10.71,Default,,0,0,0,,I don't see it.
+Dialogue: 0,0:09:13.30,0:09:14.84,Default,,0,0,0,,Hey, hold on!
+Dialogue: 0,0:09:14.92,0:09:18.39,Default,,0,0,0,,We're eating it as is?\NWhat about the venom?
+Dialogue: 0,0:09:18.47,0:09:21.01,Default,,0,0,0,,This scorpion's venom is safe to eat.
+Dialogue: 0,0:09:22.81,0:09:23.64,Default,,0,0,0,,Really?
+Dialogue: 0,0:09:23.72,0:09:26.23,Default,,0,0,0,,That's what the book said,\Nso I want to try it.
+Dialogue: 0,0:09:27.81,0:09:29.48,Default,,0,0,0,,Blech.
+Dialogue: 0,0:09:30.61,0:09:31.69,Default,,0,0,0,,Told you.
+Dialogue: 0,0:09:31.77,0:09:32.86,Default,,0,0,0,,Hold it right there.
+Dialogue: 0,0:09:34.24,0:09:35.90,Default,,0,0,0,,Scorpion Hot Pot, eh?
+Dialogue: 0,0:09:35.99,0:09:38.86,Default,,0,0,0,,But that method leaves much to be desired.
+Dialogue: 0,0:09:38.95,0:09:40.07,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:09:40.16,0:09:42.54,Default,,0,0,0,,When you eat this monster,
+Dialogue: 0,0:09:42.62,0:09:46.87,Default,,0,0,0,,you must cut off\Nthe pincers, head, and legs.
+Dialogue: 0,0:09:47.54,0:09:49.38,Default,,0,0,0,,The tail will upset your stomach.
+Dialogue: 0,0:09:49.46,0:09:52.34,Default,,0,0,0,,The book said it'd be fine.
+Dialogue: 0,0:09:52.42,0:09:54.38,Default,,0,0,0,,Or rather it just tastes bad.
+Dialogue: 0,0:09:54.46,0:09:57.13,Default,,0,0,0,,Also, cut up the body as well.
+Dialogue: 0,0:09:57.22,0:10:01.39,Default,,0,0,0,,It'll cook through more easily,\Nand the juices create a delicious broth.
+Dialogue: 0,0:10:01.47,0:10:03.39,Default,,0,0,0,,It's easier to eat too.
+Dialogue: 0,0:10:03.47,0:10:05.89,Default,,0,0,0,,And take out the internal organs.
+Dialogue: 0,0:10:05.98,0:10:07.89,Default,,0,0,0,,They're bitter and have an awful texture.
+Dialogue: 0,0:10:07.98,0:10:09.44,Default,,0,0,0,,As for the Walking Mushroom,
+Dialogue: 0,0:10:09.52,0:10:12.48,Default,,0,0,0,,throw out the bottom\Nand three centimeters from the surface.
+Dialogue: 0,0:10:12.57,0:10:14.53,Default,,0,0,0,,The feet are tasty, so keep those.
+Dialogue: 0,0:10:14.61,0:10:16.40,Default,,0,0,0,,The feet are tasty?
+Dialogue: 0,0:10:16.49,0:10:19.61,Default,,0,0,0,,Yeah, they have\Na nice, unique smell, right?
+Dialogue: 0,0:10:19.70,0:10:21.28,Default,,0,0,0,,{\i1}The smell of the feet, huh?{\i0}
+Dialogue: 0,0:10:21.37,0:10:23.53,Default,,0,0,0,,This pot is too small.
+Dialogue: 0,0:10:24.12,0:10:25.49,Default,,0,0,0,,Let's use mine.
+Dialogue: 0,0:10:26.50,0:10:28.04,Default,,0,0,0,,You sure are prepared.
+Dialogue: 0,0:10:28.71,0:10:31.88,Default,,0,0,0,,It feels like it's missing something.
+Dialogue: 0,0:10:37.63,0:10:38.59,Default,,0,0,0,,Here.
+Dialogue: 0,0:10:38.67,0:10:40.51,Default,,0,0,0,,Wait, there's no way I'll eat that.
+Dialogue: 0,0:10:40.59,0:10:43.30,Default,,0,0,0,,-Marcille?\N-Not in a million years.
+Dialogue: 0,0:10:43.39,0:10:44.93,Default,,0,0,0,,This is a cemetery, you know.
+Dialogue: 0,0:10:45.01,0:10:46.93,Default,,0,0,0,,Even if I'm okay with monsters,
+Dialogue: 0,0:10:47.02,0:10:49.19,Default,,0,0,0,,plants with roots are out of the question.
+Dialogue: 0,0:10:49.27,0:10:51.65,Default,,0,0,0,,Doesn't it look\Ngood enough with just this?
+Dialogue: 0,0:10:51.73,0:10:53.86,Default,,0,0,0,,-Marcille!\N-And who the hell are you?
+Dialogue: 0,0:10:53.94,0:10:55.48,Default,,0,0,0,,-Look up!\N-What?
+Dialogue: 0,0:11:01.49,0:11:02.41,Default,,0,0,0,,A Slime!
+Dialogue: 0,0:11:02.49,0:11:04.91,Default,,0,0,0,,{\i1}Dammit, it's covering my face.{\i0}
+Dialogue: 0,0:11:05.49,0:11:07.91,Default,,0,0,0,,{\i1}Oh no, I can't cast any spells.{\i0}
+Dialogue: 0,0:11:08.00,0:11:11.92,Default,,0,0,0,,{\i1}Thinking back,\Nmy first death was to a Slime.{\i0}
+Dialogue: 0,0:11:18.13,0:11:20.01,Default,,0,0,0,,-Are you okay?\N-Yeah.
+Dialogue: 0,0:11:20.09,0:11:21.63,Default,,0,0,0,,It got in my nose, though.
+Dialogue: 0,0:11:21.72,0:11:23.05,Default,,0,0,0,,Blow it out.
+Dialogue: 0,0:11:23.64,0:11:26.26,Default,,0,0,0,,You got rid of a Slime with just a knife?
+Dialogue: 0,0:11:26.35,0:11:28.81,Default,,0,0,0,,It's simple if you know its composition.
+Dialogue: 0,0:11:29.39,0:11:31.10,Default,,0,0,0,,They may look amorphous,
+Dialogue: 0,0:11:31.19,0:11:33.90,Default,,0,0,0,,but their composition is actually\Nmore structured than humans.
+Dialogue: 0,0:11:34.90,0:11:37.78,Default,,0,0,0,,This is the inside of a Slime.
+Dialogue: 0,0:11:37.86,0:11:40.40,Default,,0,0,0,,Compared to humans,\Nthe stomach is flipped
+Dialogue: 0,0:11:40.49,0:11:44.07,Default,,0,0,0,,and covers its internal organs and head\Nwith digestive fluids.
+Dialogue: 0,0:11:44.16,0:11:47.95,Default,,0,0,0,,It senses the breathing of its prey\Nand springs into action.
+Dialogue: 0,0:11:48.04,0:11:52.71,Default,,0,0,0,,So you're an easier target\Nif you shout in a loud voice.
+Dialogue: 0,0:11:52.79,0:11:55.25,Default,,0,0,0,,It's not edible like this,
+Dialogue: 0,0:11:55.33,0:11:59.05,Default,,0,0,0,,but you can add citrus juice,\Nand wash it thoroughly in hot water.
+Dialogue: 0,0:11:59.13,0:12:00.76,Default,,0,0,0,,Then, wipe off the moisture
+Dialogue: 0,0:12:00.84,0:12:04.47,Default,,0,0,0,,or rub it in salt and dry it in the sun.
+Dialogue: 0,0:12:04.55,0:12:06.47,Default,,0,0,0,,This makes a delicious delicacy.
+Dialogue: 0,0:12:06.55,0:12:10.02,Default,,0,0,0,,If possible, it's best to\Nlet it fast for two weeks.
+Dialogue: 0,0:12:10.10,0:12:12.48,Default,,0,0,0,,Drying it takes time too.
+Dialogue: 0,0:12:12.56,0:12:15.98,Default,,0,0,0,,This is a portable Slime drying net\Nthat I made myself.
+Dialogue: 0,0:12:16.56,0:12:17.98,Default,,0,0,0,,Sandwich it like this
+Dialogue: 0,0:12:18.07,0:12:20.53,Default,,0,0,0,,and it dries as you walk around.
+Dialogue: 0,0:12:21.07,0:12:23.20,Default,,0,0,0,,It takes time until it's ready,
+Dialogue: 0,0:12:24.07,0:12:25.61,Default,,0,0,0,,but here's the final product.
+Dialogue: 0,0:12:26.37,0:12:28.12,Default,,0,0,0,,Let's add this for today.
+Dialogue: 0,0:12:28.70,0:12:31.50,Default,,0,0,0,,-But isn't it a delicacy?\N-It's fine.
+Dialogue: 0,0:12:32.08,0:12:36.71,Default,,0,0,0,,I've researched monster food\Nin this dungeon for over ten years.
+Dialogue: 0,0:12:37.21,0:12:41.26,Default,,0,0,0,,Nothing makes me happier than to hear\Nsomeone is interested in Monster cuisine.
+Dialogue: 0,0:12:41.34,0:12:42.63,Default,,0,0,0,,Ten years?
+Dialogue: 0,0:12:42.72,0:12:45.26,Default,,0,0,0,,Was the dungeon here that long?
+Dialogue: 0,0:12:45.93,0:12:47.51,Default,,0,0,0,,Well, sit tight.
+Dialogue: 0,0:13:06.16,0:13:07.49,Default,,0,0,0,,It's ready.
+Dialogue: 0,0:13:07.57,0:13:09.28,Default,,0,0,0,,HUGE SCORPION\NAND WALKING MUSHROOM HOT POT
+Dialogue: 0,0:13:13.00,0:13:15.62,Default,,0,0,0,,Boiled Huge Scorpions turn red, huh?
+Dialogue: 0,0:13:15.71,0:13:18.08,Default,,0,0,0,,It feels so different seeing it in person.
+Dialogue: 0,0:13:19.13,0:13:21.17,Default,,0,0,0,,It smells kind of delicious.
+Dialogue: 0,0:13:21.25,0:13:24.01,Default,,0,0,0,,The meat contracts when cooked,
+Dialogue: 0,0:13:24.09,0:13:25.80,Default,,0,0,0,,so it comes apart easily.
+Dialogue: 0,0:13:26.68,0:13:27.80,Default,,0,0,0,,You're right.
+Dialogue: 0,0:13:30.97,0:13:31.81,Default,,0,0,0,,This is delicious!
+Dialogue: 0,0:13:32.52,0:13:33.93,Default,,0,0,0,,Isn't it?
+Dialogue: 0,0:13:34.02,0:13:36.31,Default,,0,0,0,,It tastes so different\Nbased on how you cook it.
+Dialogue: 0,0:13:36.39,0:13:38.35,Default,,0,0,0,,Right?
+Dialogue: 0,0:13:38.44,0:13:40.31,Default,,0,0,0,,It's so good! I'm shocked!
+Dialogue: 0,0:13:40.40,0:13:42.32,Default,,0,0,0,,Right?!
+Dialogue: 0,0:13:45.40,0:13:47.57,Default,,0,0,0,,Give me some too.
+Dialogue: 0,0:13:49.16,0:13:50.70,Default,,0,0,0,,What is this?
+Dialogue: 0,0:13:50.78,0:13:53.04,Default,,0,0,0,,Dried Slime innards.
+Dialogue: 0,0:13:56.21,0:13:57.33,Default,,0,0,0,,It's good!
+Dialogue: 0,0:13:57.41,0:14:00.46,Default,,0,0,0,,So, this is how you eat Slimes?
+Dialogue: 0,0:14:00.54,0:14:03.38,Default,,0,0,0,,It also tastes good soaked in fruit juice.
+Dialogue: 0,0:14:03.46,0:14:06.42,Default,,0,0,0,,And these tree roots\Nare so nice and fluffy.
+Dialogue: 0,0:14:06.51,0:14:08.26,Default,,0,0,0,,They're not technically roots.
+Dialogue: 0,0:14:08.34,0:14:11.60,Default,,0,0,0,,They're tree trunks\Nthat grow upside down in the dungeon.
+Dialogue: 0,0:14:11.68,0:14:14.10,Default,,0,0,0,,This algae is so soft and tasty.
+Dialogue: 0,0:14:14.18,0:14:16.81,Default,,0,0,0,,Does this grow in the dungeon too?
+Dialogue: 0,0:14:16.89,0:14:20.23,Default,,0,0,0,,That's just normal algae\Nthat grows in humid places.
+Dialogue: 0,0:14:20.31,0:14:24.23,Default,,0,0,0,,I can't believe all this is from\Nthe dungeon we've been walking through.
+Dialogue: 0,0:14:28.82,0:14:31.12,Default,,0,0,0,,I'm stuffed.
+Dialogue: 0,0:14:31.20,0:14:32.83,Default,,0,0,0,,We still haven't heard your name.
+Dialogue: 0,0:14:33.83,0:14:35.41,Default,,0,0,0,,My name is Senshi.
+Dialogue: 0,0:14:35.49,0:14:37.83,Default,,0,0,0,,It means "researcher" in Dwarvish.
+Dialogue: 0,0:14:38.83,0:14:39.83,Default,,0,0,0,,I'm Laios.
+Dialogue: 0,0:14:39.92,0:14:42.75,Default,,0,0,0,,That's Marcille the magic-user\Nand Chilchuck the picklock.
+Dialogue: 0,0:14:43.34,0:14:45.84,Default,,0,0,0,,Looks like you're on a mission.
+Dialogue: 0,0:14:45.92,0:14:47.38,Default,,0,0,0,,Yes, that's right.
+Dialogue: 0,0:14:48.09,0:14:51.59,Default,,0,0,0,,One of our companions got eaten\Nby a monster in the lower levels.
+Dialogue: 0,0:14:52.39,0:14:54.26,Default,,0,0,0,,We want to save her\Nbefore she gets digested.
+Dialogue: 0,0:14:55.35,0:14:58.14,Default,,0,0,0,,By a monster? What kind?
+Dialogue: 0,0:14:58.23,0:14:59.98,Default,,0,0,0,,A dragon with deep-red scales.
+Dialogue: 0,0:15:00.85,0:15:03.11,Default,,0,0,0,,Deep-red scales?
+Dialogue: 0,0:15:03.65,0:15:05.15,Default,,0,0,0,,The Red Dragon?
+Dialogue: 0,0:15:05.73,0:15:07.86,Default,,0,0,0,,{\i1}To maintain their large bodies,{\i0}
+Dialogue: 0,0:15:07.94,0:15:09.78,Default,,0,0,0,,{\i1}dragons spend most of their days sleeping.{\i0}
+Dialogue: 0,0:15:09.86,0:15:12.91,Default,,0,0,0,,They also digest\Nmuch more slowly than other monsters.
+Dialogue: 0,0:15:13.99,0:15:15.16,Default,,0,0,0,,I hope so.
+Dialogue: 0,0:15:15.74,0:15:16.66,Default,,0,0,0,,Please.
+Dialogue: 0,0:15:16.74,0:15:19.79,Default,,0,0,0,,Would you allow me to accompany you?
+Dialogue: 0,0:15:19.87,0:15:21.67,Default,,0,0,0,,You're more than welcome to.
+Dialogue: 0,0:15:21.75,0:15:24.17,Default,,0,0,0,,It'd be a huge help to us as well.
+Dialogue: 0,0:15:24.25,0:15:26.67,Default,,0,0,0,,Really?
+Dialogue: 0,0:15:27.38,0:15:29.42,Default,,0,0,0,,-Thank you.\N-Likewise.
+Dialogue: 0,0:15:29.51,0:15:33.43,Default,,0,0,0,,I've dreamt of cooking\Nthe Red Dragon for many years.
+Dialogue: 0,0:15:34.01,0:15:35.47,Default,,0,0,0,,The Red Dragon.
+Dialogue: 0,0:15:35.55,0:15:39.68,Default,,0,0,0,,Maybe I should go for the traditional\Nsteak, or perhaps a burger.
+Dialogue: 0,0:15:39.77,0:15:41.94,Default,,0,0,0,,Shabu-shabu is great too.
+Dialogue: 0,0:15:42.02,0:15:45.44,Default,,0,0,0,,No, if I have eggs,\Na Dragon and Egg bowl would be good.
+Dialogue: 0,0:15:48.90,0:15:51.20,Default,,0,0,0,,{\i1}Is it okay to eat that?{\i0}
+Dialogue: 0,0:15:52.53,0:15:56.49,Default,,0,0,0,,{\i1}It was on everyone's mind,\Nbut no one said a word.{\i0}
+Dialogue: 0,0:16:00.37,0:16:01.96,Default,,0,0,0,,{\i1}Second basement floor.{\i0}
+Dialogue: 0,0:16:02.54,0:16:05.46,Default,,0,0,0,,{\i1}Unlike the cemetery\Non the first basement floor,{\i0}
+Dialogue: 0,0:16:05.54,0:16:08.46,Default,,0,0,0,,{\i1}an abnormal view spreads out before them.{\i0}
+Dialogue: 0,0:16:09.05,0:16:10.30,Default,,0,0,0,,{\i1}According to academics,{\i0}
+Dialogue: 0,0:16:10.38,0:16:14.97,Default,,0,0,0,,{\i1}this is the spire of the Golden Castle,\Nwhich is located deep underground.{\i0}
+Dialogue: 0,0:16:15.05,0:16:17.68,Default,,0,0,0,,I've always wondered about this,
+Dialogue: 0,0:16:17.76,0:16:20.98,Default,,0,0,0,,but how do those trees\Nnot go above ground at this height?
+Dialogue: 0,0:16:21.06,0:16:23.56,Default,,0,0,0,,Well, a curse made this dungeon.
+Dialogue: 0,0:16:25.31,0:16:27.48,Default,,0,0,0,,Marcille, are you okay?
+Dialogue: 0,0:16:27.56,0:16:30.44,Default,,0,0,0,,I tripped on a gap in the bridge.
+Dialogue: 0,0:16:30.53,0:16:31.99,Default,,0,0,0,,We've walked quite a way.
+Dialogue: 0,0:16:32.07,0:16:33.57,Default,,0,0,0,,You must be tired.
+Dialogue: 0,0:16:34.11,0:16:36.66,Default,,0,0,0,,Let's find a campsite\Nand stop early for today.
+Dialogue: 0,0:16:38.12,0:16:41.62,Default,,0,0,0,,We spent a night\Nin a hollow tree here before, didn't we?
+Dialogue: 0,0:16:41.70,0:16:42.75,Default,,0,0,0,,Yeah, we did.
+Dialogue: 0,0:16:43.33,0:16:46.25,Default,,0,0,0,,I burned myself trying to make pork soup.
+Dialogue: 0,0:16:47.33,0:16:48.17,Default,,0,0,0,,Soup…
+Dialogue: 0,0:16:48.25,0:16:49.88,Default,,0,0,0,,Are you hungry?
+Dialogue: 0,0:16:49.96,0:16:53.01,Default,,0,0,0,,I have some scorpion broth\Nfrom lunch today.
+Dialogue: 0,0:16:53.09,0:16:54.26,Default,,0,0,0,,I don't want it.
+Dialogue: 0,0:16:54.34,0:16:55.93,Default,,0,0,0,,Well, then.
+Dialogue: 0,0:16:56.01,0:16:58.01,Default,,0,0,0,,Let's go hunt a monster for dinner.
+Dialogue: 0,0:16:58.10,0:17:00.01,Default,,0,0,0,,Jeez.
+Dialogue: 0,0:17:00.68,0:17:03.14,Default,,0,0,0,,-What're you in the mood for?\N-What?
+Dialogue: 0,0:17:03.23,0:17:06.27,Default,,0,0,0,,I'll do my best to match your request.
+Dialogue: 0,0:17:06.35,0:17:08.15,Default,,0,0,0,,You say that, but…
+Dialogue: 0,0:17:10.40,0:17:12.19,Default,,0,0,0,,We're eating monsters, right?
+Dialogue: 0,0:17:13.53,0:17:17.16,Default,,0,0,0,,Ugh, I'm fine with anything\Nas long as it's edible.
+Dialogue: 0,0:17:17.74,0:17:20.03,Default,,0,0,0,,What kind of monsters live around here?
+Dialogue: 0,0:17:20.70,0:17:22.04,Default,,0,0,0,,Let's see…
+Dialogue: 0,0:17:22.62,0:17:24.54,Default,,0,0,0,,Big Bats and Giant Rats.
+Dialogue: 0,0:17:24.62,0:17:26.67,Default,,0,0,0,,I don't want anything unsanitary.
+Dialogue: 0,0:17:26.75,0:17:27.67,Default,,0,0,0,,Forest Goblins.
+Dialogue: 0,0:17:27.75,0:17:29.29,Default,,0,0,0,,Demi-humans are a no-go.
+Dialogue: 0,0:17:29.38,0:17:30.42,Default,,0,0,0,,Living Armor.
+Dialogue: 0,0:17:30.50,0:17:32.46,Default,,0,0,0,,Metal?
+Dialogue: 0,0:17:32.55,0:17:36.30,Default,,0,0,0,,Isn't there anything more normal,\Nlike birds or tree fruits?
+Dialogue: 0,0:17:36.38,0:17:37.93,Default,,0,0,0,,There's always that one person
+Dialogue: 0,0:17:38.01,0:17:41.97,Default,,0,0,0,,who shoots down every idea\Nafter agreeing to eat anything.
+Dialogue: 0,0:17:42.06,0:17:44.31,Default,,0,0,0,,I don't think I'm asking for much.
+Dialogue: 0,0:17:44.98,0:17:47.56,Default,,0,0,0,,There are normal monsters,\Nbut those don't attack humans,
+Dialogue: 0,0:17:47.64,0:17:49.31,Default,,0,0,0,,so they'll require more preparation.
+Dialogue: 0,0:17:49.98,0:17:53.03,Default,,0,0,0,,There's no such thing as a free lunch.
+Dialogue: 0,0:17:53.11,0:17:55.07,Default,,0,0,0,,Sorry, that's true.
+Dialogue: 0,0:17:55.15,0:17:56.20,Default,,0,0,0,,But you know,
+Dialogue: 0,0:17:56.28,0:17:59.66,Default,,0,0,0,,we might run into a monster\Nholding a flesh-eating lunch.
+Dialogue: 0,0:17:59.74,0:18:02.08,Default,,0,0,0,,Let's try to enjoy this!
+Dialogue: 0,0:18:02.16,0:18:04.45,Default,,0,0,0,,Not very optimistic about this.
+Dialogue: 0,0:18:04.54,0:18:08.46,Default,,0,0,0,,Well, there are lots of fruits\Nduring this season.
+Dialogue: 0,0:18:09.04,0:18:10.46,Default,,0,0,0,,Really?
+Dialogue: 0,0:18:11.42,0:18:12.46,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:18:15.55,0:18:18.47,Default,,0,0,0,,See? I knew it'd be tree fruit\Nfrom Man-eating Plants.
+Dialogue: 0,0:18:18.55,0:18:20.51,Default,,0,0,0,,Marcille, that's incorrect.
+Dialogue: 0,0:18:20.59,0:18:22.47,Default,,0,0,0,,Man-eating Plants\Nare just the common name.
+Dialogue: 0,0:18:22.55,0:18:25.97,Default,,0,0,0,,That flower, for example, is a Baraselia.
+Dialogue: 0,0:18:26.64,0:18:28.48,Default,,0,0,0,,It mainly grows on monster trails
+Dialogue: 0,0:18:28.56,0:18:30.60,Default,,0,0,0,,shooting out a mucus\Nreminiscent of spider webs.
+Dialogue: 0,0:18:30.69,0:18:33.23,Default,,0,0,0,,When a creature touches the mucus,\Nit reflexively pulls them in.
+Dialogue: 0,0:18:35.32,0:18:37.74,Default,,0,0,0,,It wraps around things that move,\Nbut it doesn't digest them.
+Dialogue: 0,0:18:38.28,0:18:40.70,Default,,0,0,0,,It makes them into compost.
+Dialogue: 0,0:18:40.78,0:18:43.74,Default,,0,0,0,,But it sometimes\Nuses humans for nutrients, right?
+Dialogue: 0,0:18:43.83,0:18:46.45,Default,,0,0,0,,The vegetables you usually eat
+Dialogue: 0,0:18:46.54,0:18:50.12,Default,,0,0,0,,can be traced back to\Ndead remains and animal dung.
+Dialogue: 0,0:18:50.21,0:18:52.75,Default,,0,0,0,,I can't fault that logic, but…
+Dialogue: 0,0:18:52.84,0:18:54.13,Default,,0,0,0,,It's fine.
+Dialogue: 0,0:18:54.21,0:18:55.96,Default,,0,0,0,,It's still only the second basement floor.
+Dialogue: 0,0:18:56.05,0:18:59.68,Default,,0,0,0,,Someone would notice\Nif a corpse rolled by here.
+Dialogue: 0,0:18:59.76,0:19:03.22,Default,,0,0,0,,They have people to retrieve corpses,
+Dialogue: 0,0:19:03.30,0:19:06.22,Default,,0,0,0,,and no one would get eaten\Nby a monster in a place like this.
+Dialogue: 0,0:19:06.77,0:19:08.39,Default,,0,0,0,,You think so?
+Dialogue: 0,0:19:08.48,0:19:10.73,Default,,0,0,0,,I don't think we can pluck them in secret.
+Dialogue: 0,0:19:11.81,0:19:13.65,Default,,0,0,0,,We'll have to fight.
+Dialogue: 0,0:19:15.23,0:19:16.61,Default,,0,0,0,,Move over.
+Dialogue: 0,0:19:17.61,0:19:19.95,Default,,0,0,0,,I'll get rid of them in one shot.
+Dialogue: 0,0:19:21.07,0:19:23.45,Default,,0,0,0,,{\i1}Sperae Yeptum Rufermus.{\i0}
+Dialogue: 0,0:19:23.99,0:19:26.41,Default,,0,0,0,,{\i1}Alamandras Proju.{\i0}
+Dialogue: 0,0:19:26.49,0:19:28.54,Default,,0,0,0,,{\i1}Nexant Aslam.{\i0}
+Dialogue: 0,0:19:28.62,0:19:30.16,Default,,0,0,0,,Stop, you moron!
+Dialogue: 0,0:19:30.25,0:19:31.83,Default,,0,0,0,,Why?
+Dialogue: 0,0:19:36.04,0:19:38.71,Default,,0,0,0,,Do you want the fruit\Nto get hit by your magic too?
+Dialogue: 0,0:19:38.80,0:19:42.22,Default,,0,0,0,,Only take as much as you'll eat.\NThis rule is absolute.
+Dialogue: 0,0:19:42.30,0:19:44.60,Default,,0,0,0,,This isn't the time for that!
+Dialogue: 0,0:19:45.18,0:19:47.47,Default,,0,0,0,,No, let go of me!
+Dialogue: 0,0:19:52.81,0:19:54.69,Default,,0,0,0,,They can't digest people?
+Dialogue: 0,0:19:54.77,0:19:56.61,Default,,0,0,0,,But they're totally eating them!
+Dialogue: 0,0:19:56.69,0:19:59.69,Default,,0,0,0,,What? Some of them\Ncan digest things, though.
+Dialogue: 0,0:19:59.78,0:20:01.24,Default,,0,0,0,,Depends on the plant type.
+Dialogue: 0,0:20:01.82,0:20:03.95,Default,,0,0,0,,The one that has a hold of you
+Dialogue: 0,0:20:04.03,0:20:06.24,Default,,0,0,0,,is a parasite type\Nthat plants seeds inside your skin.
+Dialogue: 0,0:20:06.33,0:20:08.12,Default,,0,0,0,,That's the worst kind!
+Dialogue: 0,0:20:09.20,0:20:10.75,Default,,0,0,0,,Try to stay still, Marcille.
+Dialogue: 0,0:20:11.83,0:20:14.83,Default,,0,0,0,,Plant-based monsters\Nbasically have several limbs.
+Dialogue: 0,0:20:14.92,0:20:17.13,Default,,0,0,0,,It'll take forever to fight them\None at a time.
+Dialogue: 0,0:20:17.63,0:20:19.55,Default,,0,0,0,,For swords, there's only\None sure-fire spot.
+Dialogue: 0,0:20:20.34,0:20:21.51,Default,,0,0,0,,The root.
+Dialogue: 0,0:20:25.34,0:20:26.89,Default,,0,0,0,,Ouch…
+Dialogue: 0,0:20:27.51,0:20:28.72,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:20:28.81,0:20:30.89,Default,,0,0,0,,Yeah, thanks Laios.
+Dialogue: 0,0:20:31.64,0:20:33.27,Default,,0,0,0,,-How was it?\N-What?
+Dialogue: 0,0:20:33.94,0:20:37.19,Default,,0,0,0,,This is Shadowtail, a plant-based parasite\Nthat buries seeds
+Dialogue: 0,0:20:37.27,0:20:38.77,Default,,0,0,0,,inside the skin of living creatures.
+Dialogue: 0,0:20:38.86,0:20:42.90,Default,,0,0,0,,Unlike the Baraselia,\Nwhich is strong enough to break bones,
+Dialogue: 0,0:20:42.99,0:20:45.86,Default,,0,0,0,,the Shadowtail needs to capture\Nits prey without killing them.
+Dialogue: 0,0:20:46.37,0:20:48.28,Default,,0,0,0,,It uses a delicate balance,
+Dialogue: 0,0:20:48.37,0:20:52.29,Default,,0,0,0,,immobilizing its prey\Nwithout making it uncomfortable.
+Dialogue: 0,0:20:52.37,0:20:55.79,Default,,0,0,0,,I feel like it'd feel really good.\NHow did you feel?
+Dialogue: 0,0:20:58.38,0:20:59.92,Default,,0,0,0,,I made her mad again.
+Dialogue: 0,0:21:00.00,0:21:02.80,Default,,0,0,0,,Even I thought you were a bit much.
+Dialogue: 0,0:21:14.02,0:21:15.94,Default,,0,0,0,,First, steam it lightly.
+Dialogue: 0,0:21:16.65,0:21:18.94,Default,,0,0,0,,Cut around the stem in a circle.
+Dialogue: 0,0:21:19.65,0:21:23.28,Default,,0,0,0,,Twist it a bit\Nand pull to get the seeds out.
+Dialogue: 0,0:21:23.78,0:21:25.70,Default,,0,0,0,,-Wow.\N-Peel the skin off,
+Dialogue: 0,0:21:25.78,0:21:28.20,Default,,0,0,0,,beat the skin to make it soft,
+Dialogue: 0,0:21:29.20,0:21:30.95,Default,,0,0,0,,and cover the pan with it.
+Dialogue: 0,0:21:31.54,0:21:36.29,Default,,0,0,0,,Grind up the unripe fruit,\Nadding Slime and some scorpion broth,
+Dialogue: 0,0:21:36.37,0:21:38.46,Default,,0,0,0,,mixing until it thickens.
+Dialogue: 0,0:21:38.54,0:21:41.67,Default,,0,0,0,,Once it gets smooth,\Nadd the rest of the scorpion broth
+Dialogue: 0,0:21:41.75,0:21:44.38,Default,,0,0,0,,and chunks of tree fruit.
+Dialogue: 0,0:21:44.46,0:21:47.47,Default,,0,0,0,,Mix it a bit\Nand pour it into the frying pan.
+Dialogue: 0,0:21:47.55,0:21:49.34,Default,,0,0,0,,Cook it a bit.
+Dialogue: 0,0:21:49.43,0:21:51.72,Default,,0,0,0,,I want to see if we can grow it\Non the surface.
+Dialogue: 0,0:21:51.81,0:21:53.22,Default,,0,0,0,,Of course, we can't.
+Dialogue: 0,0:21:53.31,0:21:54.81,Default,,0,0,0,,No!
+Dialogue: 0,0:21:55.85,0:21:59.73,Default,,0,0,0,,When it starts bubbling,\Nadd the rest of the fruit.
+Dialogue: 0,0:22:01.40,0:22:02.23,Default,,0,0,0,,All right.
+Dialogue: 0,0:22:02.90,0:22:04.11,Default,,0,0,0,,It's done.
+Dialogue: 0,0:22:04.19,0:22:06.24,Default,,0,0,0,,MAN-EATING PLANTS FRUIT TART
+Dialogue: 0,0:22:06.32,0:22:07.65,Default,,0,0,0,,A tart?
+Dialogue: 0,0:22:07.74,0:22:09.24,Default,,0,0,0,,At least, it looks like it.
+Dialogue: 0,0:22:09.82,0:22:12.28,Default,,0,0,0,,The crust is just a non-stick coating.\NYou can leave it.
+Dialogue: 0,0:22:13.49,0:22:16.46,Default,,0,0,0,,It's salt-flavored.\NThat's not what I expected.
+Dialogue: 0,0:22:16.54,0:22:18.00,Default,,0,0,0,,Yeah, it's good.
+Dialogue: 0,0:22:18.62,0:22:21.96,Default,,0,0,0,,Try it, Marcille. You'll probably like it.
+Dialogue: 0,0:22:22.75,0:22:25.67,Default,,0,0,0,,None of the plants that ate people\Nare in it, right?
+Dialogue: 0,0:22:26.26,0:22:30.09,Default,,0,0,0,,No, if we used\Nthe gelatin from those plants,
+Dialogue: 0,0:22:30.18,0:22:32.72,Default,,0,0,0,,it would've turned out even better.
+Dialogue: 0,0:22:32.80,0:22:34.77,Default,,0,0,0,,The Slime didn't solidify well.
+Dialogue: 0,0:22:41.27,0:22:43.27,Default,,0,0,0,,This is delicious.
+Dialogue: 0,0:22:43.36,0:22:46.11,Default,,0,0,0,,The compost-type plants' fruit\Nis fresh and sweet.
+Dialogue: 0,0:22:46.19,0:22:48.28,Default,,0,0,0,,The digestion-type plants'\Nis more compact and rich.
+Dialogue: 0,0:22:48.86,0:22:50.74,Default,,0,0,0,,But I wonder if that's okay.
+Dialogue: 0,0:22:50.82,0:22:53.78,Default,,0,0,0,,Doesn't that mean\Nthey get eaten by other animals?
+Dialogue: 0,0:22:53.87,0:22:56.70,Default,,0,0,0,,All this fruit they make gets taken away.
+Dialogue: 0,0:22:57.37,0:22:59.46,Default,,0,0,0,,That's how a carnivorous plant works.
+Dialogue: 0,0:22:59.54,0:23:02.46,Default,,0,0,0,,They use them to capture prey\Nfor nourishment.
+Dialogue: 0,0:23:02.54,0:23:03.67,Default,,0,0,0,,Oh, I see.
+Dialogue: 0,0:23:04.75,0:23:07.42,Default,,0,0,0,,I wonder if this sweetness\Nis one of their tricks then.
+Dialogue: 0,0:23:08.01,0:23:09.51,Default,,0,0,0,,Now I get it.
+Dialogue: 0,0:23:11.89,0:23:15.01,Default,,0,0,0,,I'm so happy you're getting interested.
+Dialogue: 0,0:23:15.10,0:23:16.18,Default,,0,0,0,,Stop that!
+Dialogue: 0,0:23:24.02,0:23:26.40,Default,,0,0,0,,What'll we do with that corpse?
+Dialogue: 0,0:23:26.48,0:23:28.69,Default,,0,0,0,,We don't have time\Nto go back to town.
+Dialogue: 0,0:23:29.28,0:23:31.45,Default,,0,0,0,,Want me to revive it with magic?
+Dialogue: 0,0:23:31.95,0:23:34.66,Default,,0,0,0,,No, there's a chance it won't work.
+Dialogue: 0,0:23:35.24,0:23:39.00,Default,,0,0,0,,Maybe someone will take it\Nif we leave it in the open.
+Dialogue: 0,0:23:39.08,0:23:40.21,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:23:41.16,0:23:43.08,Default,,0,0,0,,Let's make it visible.
+Dialogue: 0,0:23:44.92,0:23:47.21,Default,,0,0,0,,I've seen this at execution sites.
+Dialogue: 0,0:23:50.72,0:23:53.55,Default,,0,0,0,,{\i1}Marcille had a nightmare that night.{\i0}
+Dialogue: 0,0:23:55.22,0:23:56.64,Default,,0,0,0,,{\i1}Dungeon food.{\i0}
+Dialogue: 0,0:23:56.72,0:23:58.56,Default,,0,0,0,,{\i1}Eat or be eaten.{\i0}
+Dialogue: 0,0:23:59.56,0:24:01.39,Default,,0,0,0,,{\i1}There is no hierarchy.{\i0}
+Dialogue: 0,0:24:01.48,0:24:04.81,Default,,0,0,0,,{\i1}Eating is a privilege for those who live.{\i0}
+Dialogue: 0,0:24:05.69,0:24:06.98,Default,,0,0,0,,{\i1}Dungeon food.{\i0}
+Dialogue: 0,0:24:07.07,0:24:09.48,Default,,0,0,0,,{\i1}Oh, dungeon food.{\i0}
+Dialogue: 0,0:25:33.61,0:25:37.91,Default,,0,0,0,,DELICIOUS IN DUNGEON
+Dialogue: 0,0:25:37.99,0:25:41.99,Default,,0,0,0,,Subtitle translation by: Chul Kim
